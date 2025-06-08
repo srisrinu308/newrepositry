@@ -1,0 +1,2 @@
+# newrepositry
+i am practicing
